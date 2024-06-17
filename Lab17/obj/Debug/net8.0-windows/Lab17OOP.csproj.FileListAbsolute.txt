@@ -1,0 +1,36 @@
+D:\Нова папка\Lab16OOP\bin\Debug\net8.0-windows\Lab17OOP.exe
+D:\Нова папка\Lab16OOP\bin\Debug\net8.0-windows\Lab17OOP.deps.json
+D:\Нова папка\Lab16OOP\bin\Debug\net8.0-windows\Lab17OOP.runtimeconfig.json
+D:\Нова папка\Lab16OOP\bin\Debug\net8.0-windows\Lab17OOP.dll
+D:\Нова папка\Lab16OOP\bin\Debug\net8.0-windows\Lab17OOP.pdb
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\Lab16OOP.Form1.resources
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\Lab17OOP.Properties.Resources.resources
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\Lab16OOP.SettingsForm.resources
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\Lab17OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\Lab17OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\Lab17OOP.AssemblyInfoInputs.cache
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\Lab17OOP.AssemblyInfo.cs
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\Lab17OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\Lab17OOP.dll
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\refint\Lab17OOP.dll
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\Lab17OOP.pdb
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\Lab17OOP.genruntimeconfig.cache
+D:\Нова папка\Lab16OOP\obj\Debug\net8.0-windows\ref\Lab17OOP.dll
+D:\Project_C#\Lab17\bin\Debug\net8.0-windows\Lab17OOP.exe
+D:\Project_C#\Lab17\bin\Debug\net8.0-windows\Lab17OOP.deps.json
+D:\Project_C#\Lab17\bin\Debug\net8.0-windows\Lab17OOP.runtimeconfig.json
+D:\Project_C#\Lab17\bin\Debug\net8.0-windows\Lab17OOP.dll
+D:\Project_C#\Lab17\bin\Debug\net8.0-windows\Lab17OOP.pdb
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\Lab16OOP.Form1.resources
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\Lab17OOP.Properties.Resources.resources
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\Lab16OOP.SettingsForm.resources
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\Lab17OOP.csproj.GenerateResource.cache
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\Lab17OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\Lab17OOP.AssemblyInfoInputs.cache
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\Lab17OOP.AssemblyInfo.cs
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\Lab17OOP.csproj.CoreCompileInputs.cache
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\Lab17OOP.dll
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\refint\Lab17OOP.dll
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\Lab17OOP.pdb
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\Lab17OOP.genruntimeconfig.cache
+D:\Project_C#\Lab17\obj\Debug\net8.0-windows\ref\Lab17OOP.dll
